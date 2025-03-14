@@ -1,2 +1,3 @@
 # maestro
-Frameworks designed to ensure ethical procedures and mitigate biases during investigations
+This project repository is designed for penetration security professionals involved in surveying persons of interest, whether for law enforcement purposes or corporate threat actor investigations. The goal of the repository is to provide tools and frameworks that ensure security professionals can carry out their investigations while adhering to lawful procedures and ethical guidelines. By incorporating mechanisms to confront and mitigate biases, this project aims to promote fairness and transparency in security practices, ensuring that investigative processes are both effective and compliant with legal standards.
+
