@@ -1,7 +1,16 @@
 #!/bin/bash 
 
-function usageErr(){
-	echo 'purpose: baselining absolute paths from the symbolic root / '
+if_sumpf = ()
+declare -i performanceSums=false 
+declare -i if_baseline_shed=false 
+declare -i 
+
+declare -r ok=()
+
+
+ function usageErr(){
+	echo ' baselining absolute paths from symbolics '
+
 	echo ' Use with adminstration privelge ' 
 	exit 2 } >&2 
 
@@ -50,7 +59,7 @@ done < "$BASE"
 
 printf '<filesystem host="%s" dir="%s"?\n' "$HOSTNAME" "${DIR[*]}"
 
-# race comdition to find original hash
+# todo: race comdition to find original hash 
 while read HNUM FN 
 do
 	INHASH="$BYPATH[${FN}]}"
