@@ -24,14 +24,6 @@
 //
 
 
-struct stack {
-
-	public: 
-
-
-	private:
-
-}
 
 class DynamicKey {
 	public: 
@@ -57,10 +49,6 @@ class DynamicKey {
 		int data;
 		int size;
 }
-struct openkey {
-	char foreword = 
-	
-}
 
 // prepare the following 
 //
@@ -72,7 +60,7 @@ void generation( unsigned ,dword ){
 // forward declarations
 //
 //
-class superstack {
+class stack {
 
 
 }
