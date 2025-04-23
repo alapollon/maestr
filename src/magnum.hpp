@@ -1,27 +1,12 @@
+
+
 //
-//
-#include <stdlib.h>
-//
-//
-#include <stdint.h> 
-//
-//
-#include <stdio.h> 
-//
-//
-#include <unistd.h>
-//
-//
-//
-//
+
 
 #include <stream.h> 
 #include <ctype.h> 
 #define dword 
 #define word 
-
-// abstract the following 
-//
 
 
 
