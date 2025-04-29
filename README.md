@@ -2,7 +2,7 @@
   **Maestr** is an open-source automation tool designed to enhance the transparency, confidentiality, and integrity of personal security metadata on personal computers. 
 
 ## The Product Purpose 
-Developing with a focus on home and small office users, Maestro provides a suite of XDR AI tools to streamline common cybersecurity tasks and **improve the overall security posture of personal computers**.
+Developing with a focus on home and small office users. Maestro provides a suite of XDR SOAR interfaces. To streamline cybersecurity tasks and **improve the overall security posture of personal home computers**.
 
 ## The Defintion of Done
 
