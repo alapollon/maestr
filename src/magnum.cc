@@ -1,15 +1,11 @@
 //
 
-#inclue <iomanip>
-#include <stdlib.h>
+#include <iomanip>
 #include <stdint.h> 
-#include <stdio.h> 
 #include <unistd.h>
-#include <magnum.hpp> 
+#include <magnum.h> 
 //
 //
-
-
 struct {}
 
 int main() {} 
